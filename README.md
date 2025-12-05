@@ -31,22 +31,6 @@ Busco sempre desenvolver soluções que unam software + hardware e entreguem imp
 
 ---
 
-# 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CarlosMarquesSI&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMarquesSI&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-# 🐍 Snake Animation (Commits)
-<p align="center">
-  <img src="https://github.com/CarlosMarquesSI/CarlosMarquesSI/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 # 🔥 Projetos em Destaque
 
 ### 🔍 **Biotreasure – Plataforma com Visão Computacional**
