@@ -1,13 +1,13 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5b90326c-58b4-4567-9744-dc9907f7a47d" width="260" alt="Blacktocats #131">
+  <img src="./Blacktocat_single_1.png" width="350" alt="Blacktocats #131">
 </p>
 
 <h1 align="center">Olá! Eu sou o Carlos Eduardo 👋🏾</h1>
 
 <p align="center">
-  Desenvolvedor Full-Stack em formação | Entusiasta de IA aplicada | Criador de soluções IoT  
+  Desenvolvedor Full-Stack em formação | Entusiasta de IA aplicada  
 </p>
 
 <br>
@@ -30,12 +30,12 @@ Busco oportunidades para aprender, colaborar e construir tecnologia com propósi
 
 ### 💻 Linguagens
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,ts,java,cs,c,html,css" />
 </p>
 
 ### ⚙️ Frameworks e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,react,reactnative,git,github,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,react,laravel,git,github,linux,arduino" />
 </p>
 
 ### 🤖 IA e Dados
